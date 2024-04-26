@@ -1,0 +1,28 @@
+{
+    "workspace.library": [
+        "/home/allayor/.config/nvim",
+        "/home/allayor/.local/share/nvim/site",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/cmp-buffer",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/colorbuddy.nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/lspkind-nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/mason-lspconfig",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/neosolarized.nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/squashfs-root/usr/share/nvim/runtime",
+        "/squashfs-root/usr/lib/nvim",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/cmp-buffer/after",
+        "/home/allayor/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ],
+    "workspace.checkThirdParty": false,
+    "diagnostics.disable": [
+        "unused-local"
+    ]
+}
