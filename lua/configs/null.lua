@@ -1,6 +1,11 @@
 local augroup = vim.api.nvim_create_augroup("LspFormatting", {})
 
-local null_ls = require("null-ls")
+local status, null_ls = pcall(require, "null-ls")
+if not status then
+	print("Null_ls is not loaded")
+	return
+end
+
 local opts = {
   debug = true,
 
